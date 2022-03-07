@@ -18,7 +18,6 @@ public class Frameswitch {
 	
 	WebElement drag1 = driver.findElement(By.xpath("//*[@id=\"gallery\"]/li[1]/img"));
 	WebElement drop1 =driver.findElement(By.xpath("//*[@id=\"trash\"]"));
-	System.out.println("hello");
 	Actions a1 = new Actions(driver);
 	a1.dragAndDrop(drag1, drop1).perform();
 	Thread.sleep(2000);
