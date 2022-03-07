@@ -1,0 +1,7 @@
+Init the properties files....
+open chrome browserchrome
+navigate to LST applicationhttps://eudev2.jnjux.com/launchpad/RSC_PLATFORM
+enter user name  :-RSC_input_username-inner
+enter password  :-RSC_input_password-inner
+login into application  :-oButtonLogin-inner
+user selects pT component :-RSC_input_username-inner
